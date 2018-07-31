@@ -89,3 +89,6 @@ skin_detect関数でいろ追跡をする.今回は肌を検出するのでRBG�
 ここでframe1,frame2としているが表示するときはそれぞれFrame,Frame1としている.
 61から65で処理したカメラ画像を表示している.
 67行目はqを押すとカメラを停止する処理が書かれている.
+
+【動画URL】
+https://www.youtube.com/watch?v=EBW-eLqobNg&feature=youtu.be
